@@ -33,7 +33,18 @@
     "profiles": 
     {
         "defaults": {
-            "opacity": 90
+            "opacity": 100,
+            "unfocusedAppearance": {"opacity": 25},
+            "backgroundImage": "C:\\Resources/terminalimage.jpg",
+            "backgroundImageAlignment": "bottomRight",
+            "backgroundImageOpacity": 0.4,
+            "backgroundImageStretchMode": "uniformToFill",
+            "tabColor": "#00c3d8",
+            "foreground": "#00c3d8",
+            "selectionBackground": "#f765b8",
+            "cursorShape": "vintage",
+            "cursorColor": "#f765b8"
+
         },
         "list": 
         [
