@@ -37,7 +37,7 @@
             "unfocusedAppearance": {"opacity": 25},
             "backgroundImage": "C:\\Resources/terminalimage.jpg",
             "backgroundImageAlignment": "bottomRight",
-            "backgroundImageOpacity": 0.4,
+            "backgroundImageOpacity": 0.2,
             "backgroundImageStretchMode": "uniformToFill",
             "tabColor": "#00c3d8",
             "foreground": "#00c3d8",
